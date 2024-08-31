@@ -9,6 +9,9 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
+* Resultados Obtidos:
+    Digite uma string para inverter: Target Sistemas
+    A string invertida fica: sametsiS tegraT
 
 """
 

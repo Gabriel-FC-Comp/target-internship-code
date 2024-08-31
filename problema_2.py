@@ -10,6 +10,10 @@ ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o núme
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido 
 no código;
 
+* Resultados Obtidos (Considerando um input de 51):
+    Insira um número INTEIRO: 51
+    51 não pertence à Sequência de Fibonacci!
+
 """
 
 # Função que determina se um número está incluso na sequência de Fibonacci

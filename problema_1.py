@@ -11,6 +11,9 @@ Ao final do processamento, qual será o valor da variável SOMA?
 
 Vai ser basicamente um somatório de 0 à 13, o que resulta em 91.
 
+* Resultados Obtidos:
+    91
+
 """
 
 indice = 13

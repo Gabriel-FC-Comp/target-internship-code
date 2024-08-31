@@ -14,6 +14,11 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
+* Resultados Obtidos (Considerando o .json do repositório):
+    Dados do Faturamento de agosto:
+    - menor_faturamento: 1000.0
+    - maior_faturamento: 9000.0
+    - dias_fat_superior: 8
 
 """
 

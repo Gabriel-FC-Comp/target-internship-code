@@ -13,6 +13,14 @@ Data: 31/08/2024
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação 
 que cada estado teve dentro do valor total mensal da distribuidora.  
 
+* Resultados Obtidos:
+    Representatividade no Faturamento Mensal por Estado
+    - SP: 37.53%
+    - RJ: 20.29%
+    - MG: 16.17%
+    - ES: 15.03%
+    - Outros: 10.98%
+
 """
 
 # Importa a biblioteca pra lidar com valores reais
@@ -37,7 +45,7 @@ try:
 except:
     # Função para mostrar a representatividade estadual no terminal
     def print_representatividade_estadual(rep_est):
-        print("Representatividade no Faturamento Mensal por Estado\n")
+        print("Representatividade no Faturamento Mensal por Estado")
         for estado,percentual in rep_est.items():
             print(f"- {estado}: {percentual:.2f}%")
 
